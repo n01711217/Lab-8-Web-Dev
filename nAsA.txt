@@ -1,0 +1,8 @@
+NASA Astronomy Picture of the Day (APOD) API
+
+The NASA APOD API provides a daily image or photograph of 
+space along with a brief description. 
+I found it interesting because it offers beautiful and educational content 
+about our universe. Each day, you can see a new picture and learn something 
+new about astronomy. This API is simple to use and makes it easy to 
+display captivating space images on a webpage.
